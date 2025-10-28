@@ -209,3 +209,4 @@ __marimo__/
 # 資料庫與測試文件
 *.db
 test*
+config*.json
