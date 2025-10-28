@@ -206,5 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# 資料庫
+# 資料庫與測試文件
 *.db
+test*
